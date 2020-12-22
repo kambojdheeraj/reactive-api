@@ -1,1 +1,2 @@
 # reactive-api
+This project showcase approach between traditional single thread request/response approach vs Asynchronous web framework approach. Through spring boot framework, we can easily built Reactive APis which are highly scalabale using event looping mechanism. By including dependency spring-boot-starter-webflux, doors get opened to use various features of Asynch APis framework. We can also easily unit test it by using spring web test framework features.    
